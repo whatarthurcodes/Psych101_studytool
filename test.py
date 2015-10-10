@@ -122,7 +122,7 @@ def questions(word_bank, lang):
 					print "Wrong! The answer is: " +question[lang_answer] + "\n"
 					wait = raw_input("Enter to continue...")
 					os.system('cls')
-				number_of_questions = number_of_questions + 1
+					number_of_questions = number_of_questions + 1
 				
 			
 			else:
