@@ -1,0 +1,35 @@
+Methods,"Section of a research article that describes the participants, procedure and materials used"
+Results,Section of a research article that describes what was found; tables & graphs; statistics
+Discussion,Section of a research article that compares content with past research and suggests practical applications
+Introduction,Section of a research article that outlines the research questions; reviews past research and theory; introduces a formal hypothesis
+Psychological construct,"Abstract psychological concept (e.g. aggression, intelligence, attractiveness)"
+Operational construct,"Construct defined in terms of how it is to be measured (e.g. I.Q. score, # of dates, etc.)"
+Independent Variable (IV),"The ""cause"" variable; naturally occurring in a correlational study; manipulated in an experiment"
+Dependent Variable (DV),"The ""effect"" variable; depends on the independent variable (measured by the investigator)"
+Confounding variable,"Variable closely associated with the independent variable (alternative ""cause"")"
+Correlational Study,Investigates the relationship between two variables; studying naturally occurring groups; no random assignment
+Experiments (Experimental Study),Investigate the effect of the independent variable on the dependent variable; experimenter manipulates the IV and then observes that happens to the DV; random assignment of participants to one of two conditions
+Temporal Precedence,Cause must precede effect
+Covariation,Cause and effect must occur together
+Alternative/ Confounding,Alternative/ confounding explanations must be eliminated
+Statistics,Describing events mathematically
+Descriptive Statistics,"Used to describe, summarize, and simplify a set of observations"
+Inferential Statistics,Used to infer characteristics about the population from a sample
+Variable,Observations with non-uniform values
+Quantitative variables,"Numbers represent different quantities; more or less of an attribute (e.g. number of offspring, age, drug dosage)"
+Qualitative variables,"Numbers represent different qualities; categories (e.g. sex, political affiliation, vehicle color)"
+Population,The complete set of observations
+Sample,A subset of observations taken to represent the population
+Parameter,Describes characteristics of the population
+Statistic,Describes corresponding characteristics of the sample
+Sampling Error,The discrepancy observed between a sample statistic and its corresponding population parameter; varies from sample to sample
+Median,Middle score; best measure if there are outliers (extreme scores)
+Mean,Arithmetic mean; most frequently used to measure because sampling error is lowest
+Mode,Most frequently observed sore; used for qualitative data
+Range,Difference between the highest score and the lowest score
+Variance,Average amount of squared deviation from the arithmetic mean
+Standard Deviation,Average amount of deviation from the arithmetic mean
+Pearson Product-Moment Correlation Coefficient - r,"Describes the relationship between two variables (i.e. direction of the relationship - pos or neg, magnitude of relationship)"
+Default assumption,Observed difference is due to sampling error
+Statistically significant,Probability that the observed difference is due to sampling error is very low
+Non statistically significant,"Probability that the observed difference is due to sampling error is high; therefore, not enough evidence to conclude that treatment caused the difference"
