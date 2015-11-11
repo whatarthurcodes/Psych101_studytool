@@ -1,0 +1,303 @@
+Cognition,information/ mental processing
+Ergonomics,law/principle of work
+Why Study CE?,"Optimize human well-being and system performance e.g. improve speed/efficiency(reduce time/cost), military apps"
+Cognitive vs physical tasks,Every tasks has cognitive and physical aspects;
+,Human factors is cog erg; Ergo is physical ergo;
+,
+Lec 2: Senses and Perception,
+Sensation,"From physical ener or substance to neural signal; automatic, almost no attention needed"
+Perception,From neural signals to meaningful mental representations; affected by individual exp
+Cones,"Concentrated in fovea(sensitive to high freq, center of retina); less sensitive to motion; fine detail high rez"
+Rods,"onlyoccur only in the periphery(good for night vision)! Sensitive to motion, coarse low rez"
+SSTS,"Short term sensory storage; vision, called iconic memo, brief (<1000ms), high capacity)"
+Motion parallax,"Relative motion (visual depth perception); monocular cues, observer centered; app, object further away moves slower than objs close by"
+Binocular disparity,1. two eyes see two diff imgs (e.g. 3D movies using polarized glass)
+,
+Convergence,Rotation of two eyes in their sockets to focus on a single object
+Works with 1 eye (Monocular cues),"Linear perspective, relative size, overlap, aerial perspective, motion parallax; accommodation"
+Require 2 eyes,"Binocular disparity, convergence"
+,
+Lec 3: Sesnes and Perception II,
+Auditory,"Sense of sound; intensity in dB, frequency 2-20k Hz, 0-130 dB human audible range; (freq to pitch and loudness; intensity to loudness)"
+Taste/gustation,"Sense of chemical substances; apps: MSG, artificial sweetener"
+Smell/olafaction,
+Somesthetic sense(body),"Skin senses(touch, pressure, temp and pain); kinesthetic sense"
+Bottom-up Perception,"Top ? mind, knowledge, psychological meanings"
+,"Bottom ? senses, neural signals; exp -> knowledge -> senses -> stimulus"
+Affordance,- Perceived functions of an obj (based on exp and expectancies)
+,- inform the opportunity to perform an action (e.g. door push handle)
+Gestalt principles,The mind forms a global whole with self-organizing tendencies
+Perception: constancy,"Size, shape, brightness, color"
+Perception: illusion,"Brain tries to make sense of what eyes are telling it; but not correctly interpret the truth( apps: art, building design"
+McGurk Effect,A perceptual phenomenon: demonstrates an interaction between hearing and vision in speech perception(ppl rely more on lip-reading)
+Absolute threshold,"The lowest level at which a stimulus can be detected, for 50% of time"
+Differential threshold,"The level at which an increase in a detected stimulus can be detected, 50% of tiem"
+Just noticeable difference,"Changes with the absolute val; ppl better at telling diff rather than abz val (e.g. weight compare, brightness, and temperature, all relative)"
+Sensation and perception chars and apps,"- all necessary info well above absolute threshold; - make unnecessary stimuli not sensible; - want to rank multiple options, compare 2 at a time; - use machines to enhance sensation(e.g. infrared, night vision)"
+Adaptation,Dark adaptation: bright to darker env;
+,Light adaptation: dark to bright env
+,"Red is best for protecting night vision, rods most sensitive"
+,
+Lec 4: Attention,
+Meaning of attention,Academic: limited mental resources needed in various stages of cognitive processing
+,"Acronyms: notice, awareness, observation, contemplation"
+Chars of attention,"Selective, focus, divided, sustained (not 4 kinds of attention resouces, but 4 ways use our attention resources) all require mental effort and contribute to feeling of mental workload, and accumulation of fatigue"
+Selective,"Large amount of sensory ipt, limited attention resouces; only process selective ones; filter metaphor, spotlight metaphor"
+Covert/ Overt,Visual attention shift != eye movement; covert attention shift: no eye move; overt: eyes move and any physical orienting of body
+Focused,"Other side of selective, ignore sensory info not selected; suppress distracters; difficult when distraction is attention-capturing(e.g. gf chat)"
+Divided,Attend multiple objs at same time; multi-tasking
+Sustained attention,"Maintain vigilance, focused on task for prolonged time;"
+,"- LD driving, system monitoring"
+SEEV model,"Model explains factors that affect AOI, time spent looking at each AOI, probability to notice unexpected events"
+,"Bottom-up factors: - salience, effort(w.r.t. moving attention and eyes)"
+,"Top-down factors: expectancy, value"
+Salience,"Extent which AOI stands out from the background( or from other AOIs) by virtues such as its size, color, intensity (e.g. tag cloud, broadway)"
+Effort,Cost of moving attention from one AOI to another
+,"- no eye move, eye move; head move, body move"
+Expectancy,Estimated likelihood of events happening at an AOI
+,"- related to personal knowldg, exp, and understanding of sys dynamics; can be improved by training (e.g. sprinter countdown)"
+Value,"Usefulness/ importance of info from an AOI (e.g. driving: traffic signal, GPS info val, txt msg)"
+SEEV Visual,"Qualitatively, identify important factors;"
+Change blindness,"Change in physical world, although salient , not detected;"
+,(e.g. blink changed focused attention and STSS; door experiment: focused and STSS; gradual changed: focused and differential threshold;
+,Major causes: selective and focused attention
+,Attention narrowing or tunneling: attention focused on AOIs with expected high vals/importance
+,- unexpected events from unexpected AOIs
+Visual search,"Limited attention,"
+,Useful field of view(UFOV): the visual angle within which a target can be detected if present;
+Parallel/ Serial Search,Parl: targets stands out from others;
+,"Serial: fixed order, random order"
+Clutter,Chars of display items impede selective and focused attn. in visual srch
+,"e.g. numeriosity, density, disorganizational, heterogeneous"
+Automatic/ controlled proces,Less or no need for attn.(read native lang). requires attn(read 2nd lang.
+Stroop Effect,Color and word not matching: words processed automatically;
+,"- perceptual competition, extra effort needed suppress meaning of word"
+Stroop effect takeaway,"Redundancy gain: increase in perfor when obj feature map to same response; resonpose conflict: when mapping differently) App: use redundancy gain, avoid response conflict"
+,
+,
+,
+,
+Lec 5: Attn and MT,
+MT,Perform multiple tasks at same time
+MT classifications,"Truly parallel processing; concurrent simultaneous; task switching, interruption and resumption"
+Dual-task interference,Lower performance in dual condition
+Factors affect MT performance,- Rsc demand and alloc.
+,- rsc dimension( type of rsc required)
+,- task switching
+Automaticity,Skills that require no (or very little) attn. e.g breathing
+2 Reasons perfom not ideal,"1.ÿÿÿÿÿ Data limit: adding more rsc not improve (external, internal)"
+,2.ÿÿÿÿÿ Attention resource limit: add more attention rsc improves
+Dual-task rsc alloc,"Hydraulic model, more attn. rsc for harder tasks"
+Multiple Resouces,
+Codes,Verbal: reading txt
+,"Spatial: object rotation, auditory spatial localization. Easy little overlap"
+Perceptual Modalities,"Visual, auditory and tactile:"
+,- easier perform 2 tasks using diff modalities; (e.g. driving n listen radio)
+Limitations of multi rsc theory,"Qualitatively: identify important factors; if two share few rsc, tend have smaller task interference"
+Driver MT,"Perform 2ndary task for a limited time not affect primary task perfom, but increase driver mental workload"
+Task switching,Interruption and resumption lags
+,
+Prospective memo,- remember to do sth in future
+,"- interrupting task automatically creates need to remember resume primary task( counter measure: timer, use reminder)"
+,
+Lec 6: Memo,
+Memo,STSS ( <1~2s)
+,Working/ short-term memo( <a few mins)
+,LT (> a few mins)
+STSS,"Vision: iconic memo(brief <1s); hearing: echoic memo (~2s, partial report"
+Working memo,"Fcns, components, capacity, duration, unit"
+Fcns of WM,"Temp store of ino; a place to manipulate info, ?workbench?"
+Components of WM,
+Visual-spatial sketchpad,"Holds and manipulates images; e.g. spatial loc, shape"
+ Mental imagery,Visualize an image in mind; same part of visual cortext used to perceive external stimuli
+Phonological store,Holds and manipulates phonological and sound info;
+Capacity of WM,
+Unit of WM,Item or chunk(memory representation)
+,Fators affect visual attention: SEEV
+,"Dimensions of multiple attn. rsc theory: SCMV stages, codes, modalities, visual"
+Central Executive,Temporarily hold and manipulate items retrieved from LT memo
+,
+,
+Lec 7: Memo and Training,
+LT Memo,
+Declarative knowledge,"-semantic memory(facts) e.g. birthday,"
+,"-episodic memo(events, personal exp), D‚j… vu"
+ACT-R,"Adaptive Ctrl Thougt- Rational, cognitive structure"
+Recall vs Recognition,analogy: command line vs GUI
+Retrieval Interference,- proactive interf: kldg from past interfers with new kldg
+,- retroactive interf: new kldg interferes with old kldg
+False memo,"Retrival may be corrupted by memory errors, by post-event info"
+Production rules,A production is a condition and action pair
+,
+Training,Procedure used to facilitate learing
+Learning,- perform increases( declarative -> procedural)
+,- mental workload decreases
+,
+,
+,
+Active learning,Thinking about and actively experiencing the material is better than observing it
+Overlearning,Practice continues past 1st errorless trail
+Train sys fidelity,Degree to which training resembles env/procedure of target task
+,
+Lec 8: Situation Awareness,
+L1,Perception of elements in env within a volume of time n space
+L2,Comprehension of their meanin e.g. driving
+L3,"Projection of their status in near future e.g. medical diagnosis, stock market"
+SA,State regarding level of fitness between memo and task requirement
+SA components,Spatial awar: spatial disorientation
+,"system awar: distraction ,lack of checklist"
+,"Task awar: poor task management, lack of vigilance"
+Factors affecting loss of SA,"Attention, pattern recognition, workload, mental models, working memory"
+Improve SA,"Cue filtering, augmented displays, spatial organization, automate status update"
+,
+,
+Lec 9:DM I,
+Decision,Selection of one thing among multiple options
+DM,Process of reaching a decision
+DM process,"Diagnosis: WM, LTM, SA; Choice: response selection"
+Normative DM,"Ideally how DM made? --- Rational, analytical, optimization, maximize expected gain, and minimize expected loss"
+,
+Good decision,"Good decision maximizes expected utility(statistics procedure focused, outcome focused, expert opinion focused, political procedure focused)"
+,
+,
+Lec 10 DM II,
+,
+Hindsight bias,Lable a decision as good or bad only after outcome is known
+,- ignore difficulty to tell which decision is good before outcome is known
+Rationality vs. bounded rationality,"- Rational:optimization(normative DM), assume know everything and is ideal"
+,"- Bounded: how ppl actually make decision, D Maker is satisficer, seeking satisfactory solution rather than optimal"
+Heuristic,"Rules-of-thumb, exp-based, simplify DM,"
+,
+Representative Heuristic,"Assessment of situation based on similarity to mental representation of hypothesized situation e.g. walks like duck, quacks like duck"
+Availability Heuristic,Judge of likelihood of event based on ease of which event comes to mind
+,"- could biased by irrelevant chars( sailience, recency, simplicity of diagnosis e.g. airplane crash safety"
+Anchoring Heu,(CN tower)
+,
+,-ÿÿÿÿÿÿÿÿÿ First impression is important
+Bias,A systematic distortion or pattern of error
+Confirmation bias,"After forming belief, ppl seek and give heavier weight on evidence, not seek inconsistent evidence e.g. belive is psychic"
+Overconfidene bias,"Ppl tend to assume their judgements are much more accurate than they actually are e.g. PMs, and entrepreneurial"
+Bias vs Heu,Bias: systematic distortion or pattern of error; heu: short cut
+Factors affect DM,"Reference point, fraing effect, training and debiasing, DM support tools"
+Ref point,"Is an event a gain or loss, relative, e.g. house burn down, ppl alive"
+Framing effect,"e.g. 85% beef, vs 15% fat; tendency to make diff decisions depending on simple diffs in how situation are presented e.g. Decoy effect"
+Decoy Effect,
+Training and Debiasing,"Know heu and biases, learn math and stas; reply more on objective data than personal feeling"
+Decision Support Sys,"Collect data, compare options, diagnose, make suggestions e.g. decision matrix"
+,
+Lec 11 Reaction and Control,
+Measuring reaction,Reaction time and accuracy
+Reaction time,Multiple categories of signals need diff reactions
+Factors affect RT,
+Stimuls modality,- Simple RT(130- 350ms)
+,- sensory time diff: visual longer(30-50ms longer) than auditory and finger tip
+Stimu intensity and expectancy,- Property and attention affect perception time; higher intensity -> shorter RT
+,- higher expectancy -> short RT (e.g. road sign)
+Random walk theory,- Evidence is aggregated/ accumulated over time;
+,- reaction is made when enough info is accumulated
+Motor movement factors,Movement distance and size; Fitt?s law used to evaluate interface design; compare control devices
+,
+,
+Speed-accuracy trade-off,- Diffcult to be fast and accurate at same time
+,- emphasis on speed or accuracy can be adjusted; trade-off relationship
+Stimulus-response compatability,Location:
+,"colocation principle, stove switch right besides element"
+,Movement:
+,Conceptual/ common rule:
+Location compatability,Colocation: ctrls located next to items they control
+,Congruence: spatial layout of ctrsl matches layout what they ctrl
+Movement compatibility,Movement compat: best have direction of ctrl movement match pattern of display move
+,e.g. Warwick principle: closet edge of ctrol should move in same dir as display
+Conceptual/common rule/ stereotype,Rules: establishing consistent rules;
+,"- clockwise increase, move ctrl up; e.g. survey ranking and score"
+Ctrl modalities,"Manual, buttons, keyboards; Sound: sound on/off ctrl, speech recog; EEG:- discrete commands, classification"
+Methods prevent accidental activation,"Resistance, require relatively large force; concave, sunken shape"
+,
+Lec 12: Human Errors and Risk Management,
+Backover case,"Can?t see: sensory issue;  don?t know: memo, SA issue"
+Heat stroke,"Forget: memo issue. Remedy: education, reminders"
+Human Error,Three terms
+1,Errorneous action leading to unwanted results: E.g. medical diagnosis errors
+2,"Cause of error is human: 2 types of causes, human or nature"
+3,"Assign blames to humans, e.g. to field operators; from sharp end active failure to blunt end latent failure;  e.g. casey ATM case"
+Categories of human error,
+Mistakes,"- Intedend action was believed to be appropriate, but in fact not; results unwanted."
+,"- relate to perception, SA, and response selection;"
+Violaion/Sabotage,"Not error, results are unwanted"
+Slips,"- Intended action is in fact appropriate, but is not carried out correctly"
+,"- related to attention, response execution e.g. keyboard slip"
+Lapses,"- an intended action is forgotten, not carried out;"
+,- related to memo e.g. gas trigger; how to reduce lapses
+Mode errors,"- action is appropriate in 1 sys mode, but carried out in diff mode"
+Error analysis model,
+Domino,Accidents are the results of a series of events(causality link)
+Swiss cheese model,"Defense layers not perfect, has holes; hazard pass thru each def layer; accidents are results of defence failures"
+THERP,Quantitative: Technique for human error prediction
+,1. Draw event tree/ prob tree
+,2. estimate baseline Human error probability(HEP) for each event
+,3. apply perfor shaping factors
+,4. computer probability for each outcome
+,5. use sensitivity analysis to improve diff events
+STAMP,Systes-Theoretic Accident Model and Process
+,- dynamics and interactions between system components
+Risk mngmt model,"Risk eval, risk avoidance, risk reduction, risk sharing, risk acceptance"
+5 patterns in earlier accidents,1. drift towards failure as defenses erode in face of production issue
+,2. taking past success as reason for confi
+,3. fragmented problem solving
+,4. failure to revise assessment as new evidence comes in
+,"5. breakdowns at boundaries, leading to communication and coordination breakdowns"
+Resilience eng,Ability to moving back to safety after drifting towards risky boundaries
+,
+Lec 14: Mental Workload and Stress,
+Workload,Workload diff from performance;
+Mental workload,"Relative amount of resources used, can tell remaining ?reserve capacity? e.g. computer ram usage analogy"
+Physical workload,Quantified by : task ener require / human physical ener capacity
+,"Too high: fatigue, overload"
+,Too low: muscle strength reduction
+Difficulty in defining mental workload,"Mental workload: memory capacity chunks, processing time, attention resources"
+Time-line analysis,Time as unit of mental resource capacity: assume one gen pool of mental resource
+Mental workload,"Multiple resources: stages, processing codes, perceptual modality"
+General capacity,Working memo capacity: 7+-2
+,Speed: simple reaction 130-350ms
+Mental workload measure,2ndary task perform;   subjective rating;    physiological measure;    computational modelling
+2ndary task measure,"Perform a 2nd task, which uses the remaining resources (need to be difficult enough)"
+Embedded 2ndary tasks,
+EEG,"Spectral analysis, time domain to freq domain;"
+ERP,Event-related potentials: from averaging EEG results
+Physiological mental workload measures,"Oxygen consumption, blood flow; hear-rate variability; pupil diameter"
+Stress,A reaction to stressors
+Stressors,Stimuli or cdns that are perceived to disrupt/threaten one?s perfo and well-being
+,- cognitive appraisal: lvl of stress depends on person?s assessment of stressor/challenge e.g. public speaking to some ppl
+Stressors,"Enviroment: noise, temp, vibration, drugs"
+,"Psychological: anxiety, frustration, fatigue"
+Effects of Stress,"Affect: feelings, emotion, desire"
+,"Physiology changes: heart rate, hormone"
+,Physical perfor
+,Cognitive perfo
+SYerkes-Dodson law,Too much or too little is bad; optimal level depends on task complexity
+Loss of vigilance,"Stress/ workload too low e.g. breakdown of vigilance during prolonged visual search, long distance driving in straight road"
+,- monotonous task
+Measure stress,"Physiological Measure: skin conductance, hormone lvl; Subjective rating: DSSQ"
+Hormone test,"Salive test, increase during stressful material"
+DSSQ,Questionnaire  Dundee Stress State Questionnaire DWSSQ
+Effects of stress on cognitive perfo,"Narrow attention, reduce working memory, enhance LT memo encoding"
+,Sacrifice accuracy for speed; reduce alternative considered in DM
+Stress effects on attention,Narrows attention: could increase attentional selectivity
+,- narrow attention to focus on what is most important
+Stress of WM,- reduces WM capacity: distract attn. from verbal or spatial
+Stress on LTM encoding,- enhances LT memo encoding of arousing events
+Stress of speed-accuracy tradeoff,- encourage ppl to trade accuracy for speed;
+,"- encourage shift away from slow, normative DM towards faster more intuitive heuristic"
+Stress on DM,"- reduce # of alters considered; premature closure, reduce decision quality"
+,
+Relevant definition,
+HEP,Performance shaping factor(PSF) / error factor(EF)
+Choice RT,"Multiple categories of signal need diff reactions; e.g. shot bad vs good guys, Choice RT ? simple RT = response selection time"
+Memo item strength spreading activation,"e.g. think a kangaroo, then think a country"
+,
+Subjective mental workload ting,- Bedford workload scale
+,- Nasa-tlx(task load index)
+Measure SA,
+,
+,
+,
